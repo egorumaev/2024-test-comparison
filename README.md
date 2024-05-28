@@ -8,7 +8,7 @@
 
 * Pandas, Matplotlib, Sklearn
 
-* LaTex
+* LaTeX
 
 ---
 
